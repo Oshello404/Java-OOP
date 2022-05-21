@@ -1,25 +1,3 @@
-/**
- * CSCI1130 Assignment 1 Future Value
- *
- * I declare that the assignment here submitted is original 
- * except for source material explicitly acknowledged,
- * and that the same or closely related material has not been
- * previously submitted for another course.
- * I also acknowledge that I am aware of university policy and
- * regulations on honesty in academic work, and of the disciplinary
- * guidelines and procedures applicable to breaches of such
- * policy and regulations, as contained in the website.
- * 
- * University Guideline on Academic Honesty:
- *  http://www.cuhk.edu.hk/policy/academichonesty
- * Faculty of Engineering Guideliens to Academic Honesty:
- *  http://www.erg.cuhk.edu.hk/erg/AcademicHonesty
- * 
- * Student Name: Hans Nathanael Junoes
- * Student ID  : 1155147304
- * Date        : 8 October 2021
- */
-
 package futurevalue;
 
 import java.util.Scanner;
