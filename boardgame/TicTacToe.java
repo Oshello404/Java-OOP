@@ -2,10 +2,6 @@ package boardgame;
 
 import java.awt.Color;
 
-/**
- * TicTacToe is a subclass of TurnBasedGame.
- * @author pffung
- */
 public class TicTacToe extends TurnBasedGame {
     
     // try using default access modifier
