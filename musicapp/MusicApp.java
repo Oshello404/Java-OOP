@@ -1,25 +1,3 @@
-/*
- * CSCI1130 Assignment 4 Music App
- * 
- * I declare that the assignment here submitted is original
- * except the source material explicitly acknowledged,
- * and that the same or closely related material has not been
- * previously submitted for another course.
- * I also acknowledge that I am aware of University policy and
- * regulations on honesty in academic work, and of the disciplinary
- * guidelines and procedures applicable to breaches of such
- * policy and regulations, as contained in the website.
- * 
- * University Guideline on Academic Honesty:
- *  http://www.cuhk.edu.hk/policy/academichonesty
- * Faculty of Engineering Guidelines to Academic Honesty:
- *  https://www.erg.cuhk.edu.hk/erg/AcademicHonesty
- * 
- * Student Name: Hans Nathanael Junoes
- * Student ID  : 1155147304
- * Email       : 1155147304@link.cuhk.edu.hk
- * Date        : 4 November 2021
- */
 package musicapp;
 
 import java.util.*;
