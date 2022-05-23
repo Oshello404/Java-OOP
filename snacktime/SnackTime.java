@@ -7,6 +7,7 @@ import javax.swing.*;
  *
  * @author hansj
  */
+
 class SnackTimeHelper {
   /*
    * Get the user input String from Snack Menu
